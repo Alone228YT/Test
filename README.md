@@ -1,5 +1,5 @@
 # Test
-Test module for the userbot milFA
+Test module for the userbot milFA (Version 1.10)
 
 # Installation
 milFA command:
@@ -18,5 +18,9 @@ or
 </pre>
 
 # Commands
+### Added in version 1.00
 `.test` - checks the operation of the module<br>
 `!text!` - makes text uppercase
+
+### Added in version 1.10
+`.rn number 1 - number 2` - selects a random number
