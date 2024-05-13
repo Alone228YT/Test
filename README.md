@@ -17,6 +17,6 @@ or
 .mi Alone228YT - Test
 </pre>
 
-# Command
+# Commands
 `.test` - checks the operation of the module<br>
 `!text!` - makes text uppercase
